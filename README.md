@@ -2,7 +2,7 @@
 
 OpenMMLab主页：https://openmmlab.com/
 
-MMPose主页：https://github.com/open-mmlab/MMHuman3D
+MMHuman3D主页：https://github.com/open-mmlab/MMHuman3D
 
 视频讲解：同济子豪兄 https://space.bilibili.com/1900783
 
